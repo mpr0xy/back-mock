@@ -1,0 +1,24 @@
+{
+  "name": "back-mock",
+  "version": "1.0.3",
+  "description": "Used to simulate the backend API interface",
+  "main": "lib/back-mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "server"
+  ],
+  "author": {
+    "name": "mpr0xy",
+    "email": "mpr0xy@live.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.6",
+    "multer": "^0.1.6"
+  }
+}
